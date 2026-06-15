@@ -1,4 +1,4 @@
-import type { FilterCategory, FilterLevel, Category, TransquilityLevel } from '../types'
+import type { FilterCategory, FilterLevel } from '../types'
 
 interface FilterBarProps {
   selectedLevel: FilterLevel
